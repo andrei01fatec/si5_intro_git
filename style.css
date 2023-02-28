@@ -5,9 +5,9 @@
 div.container{
     width: 50%;
     min-height: 400px;
-    background-color: beige;
-    border: solid gray thin;
-    box-shadow: 3px 3px 3px gray;
+    background-color: rgb(228, 228, 156);
+    border: solid rgb(218, 21, 21) thin;
+    box-shadow: 3px 3px 3px rgb(241, 9, 9);
     display: block;
     margin: 0 auto;
 }
@@ -17,5 +17,5 @@ ul.list{
 }
 ul.list > li{
     font-style: italic;
-    color: purple;
+    color: rgb(115, 8, 245);
 }
